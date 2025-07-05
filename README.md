@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio React App
 
 A modern, responsive portfolio website built with React, Framer Motion, and Lucide React icons. The app features smooth animations, parallax effects, and a modular component architecture.
@@ -130,3 +131,6 @@ src/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+A portfolio using React.
+>>>>>>> 88a9ed36f5fe6cb82b0d17c553e7e48ec1d0d2a6
